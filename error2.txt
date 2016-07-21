@@ -1,0 +1,3 @@
+Dòng 4: Mã nhân viên không tồn tại
+Dòng 6: Mã nhân viên không tồn tại,Thu nhập không phải là số
+Dòng 7: Thu nhập không phải là số
